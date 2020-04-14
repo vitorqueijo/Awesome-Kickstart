@@ -45,8 +45,10 @@
 ## Crypto
 - [PT-BR]
     - [Cryptoanalysis for noobs](https://medium.com/@Foucan/cryptoanalysis-for-noob-a30ef6a5a0e4)
+    - [ Material Complementar: Live de Paralelismo em Python =>] (https://www.youtube.com/watch?v=FjJ1bClIa-o&list=PLOQgLBuj2-3KU6TnzJQJVfL5aiaOQuZ4o) <b>Ideal para a elaboração de programas que lidem com criptografia</b>
 - [ENG]
     - [Curso de Cryptografia moderna, administradas pelo Prof. Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
+
 ## Forense
 
 ## Web
@@ -64,7 +66,7 @@
     - [Lockpick tools com clips de papel](https://www.itstactical.com/skillcom/lock-picking/30-second-diy-paperclip-lock-picks/)
     - [Lockpick tools com limpador de pará-brisas](https://www.itstactical.com/skillcom/lock-picking/how-to-make-a-diy-lock-pick-set-from-a-windshield-wiper/)
     - [LockpickLawyer | Vídeos frequentes sobre lockpicking e bypass](https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ/featured)
-    
+
 ## Hardware
 
 ## CTF
@@ -85,7 +87,7 @@
     - [Git básico](https://pt.wikiversity.org/wiki/Git_b%C3%A1sico)
     - [Git e contribuições para projetos Open Source](https://www.udemy.com/course/git-e-github/)
 - [ENG]
-        
+
 
 ## News
 - [PT-BR]
